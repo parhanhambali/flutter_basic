@@ -1,4 +1,4 @@
-# cozy
+# Flutter Basic
 
 A new Flutter project.
 
